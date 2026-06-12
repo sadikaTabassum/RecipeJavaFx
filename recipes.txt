@@ -2,5 +2,6 @@ Potato Fry,3,350,Potato Oil,Put potato into oil
 Potato Brisket,4,700,Potato, Oil,Put potato into oil
 Chicken Rice,4,500,Chicken, Rice,Boil rice and cook with chicken
 Egg Curry,2,300,Egg,Onion,Boil egg and cook with onion
-Fish Fry,2,400,Fish, Oil,Fry fish in hot oil
-Sushi,2,100,Rice, Salmon,Put salmon in rice
+Sushi,2,100,Rice|Salmon,Put rice in salmon
+Chicken soup,4,400,Chicken, Water,Boil chicken in water
+Cake,8,800,Sugar, Oil,Bake sugar and oil

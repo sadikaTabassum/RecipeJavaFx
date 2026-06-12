@@ -3,7 +3,6 @@ import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
@@ -55,14 +54,15 @@ public class RecipeApp extends Application {
     }
 
     private VBox createHeader() {
-        Label title = new Label(" Recipe Manager");
+        Label title = new Label("Recipe Manager");
         title.getStyleClass().add("app-title");
 
-        Label subtitle = new Label("Manage your recipe");
+        Label subtitle = new Label("Manage your recipes");
         subtitle.getStyleClass().add("app-subtitle");
 
         VBox header = new VBox(5, title, subtitle);
         header.getStyleClass().add("header-card");
+
         return header;
     }
 
@@ -74,29 +74,75 @@ public class RecipeApp extends Application {
         tableView.setPlaceholder(new Label("No recipes found. Add a recipe from the form on the right 💜"));
 
         TableColumn<Recipe, String> nameColumn = new TableColumn<>("Recipe Name");
-        // Important fix: use a lambda instead of PropertyValueFactory.
-        // This prevents blank recipe names in some JavaFX/default-package setups.
-        nameColumn.setCellValueFactory(data -> new SimpleStringProperty(data.getValue().getName()));
+        nameColumn.setCellValueFactory(data ->
+                new SimpleStringProperty(data.getValue().getName())
+        );
         nameColumn.setMinWidth(150);
 
         TableColumn<Recipe, Number> servingsColumn = new TableColumn<>("Servings");
-        servingsColumn.setCellValueFactory(data -> new SimpleIntegerProperty(data.getValue().getServings()));
+        servingsColumn.setCellValueFactory(data ->
+                new SimpleIntegerProperty(data.getValue().getServings())
+        );
         servingsColumn.setMaxWidth(95);
 
         TableColumn<Recipe, Number> caloriesColumn = new TableColumn<>("Calories");
-        caloriesColumn.setCellValueFactory(data -> new SimpleIntegerProperty(data.getValue().getCalories()));
+        caloriesColumn.setCellValueFactory(data ->
+                new SimpleIntegerProperty(data.getValue().getCalories())
+        );
         caloriesColumn.setMaxWidth(100);
 
         TableColumn<Recipe, String> ingredientsColumn = new TableColumn<>("Ingredients");
         ingredientsColumn.setCellValueFactory(data ->
-                new SimpleStringProperty(String.join(", ", data.getValue().getIngredients())));
+                new SimpleStringProperty(String.join(", ", data.getValue().getIngredients()))
+        );
         ingredientsColumn.setMinWidth(220);
 
         TableColumn<Recipe, String> procedureColumn = new TableColumn<>("Procedure");
-        procedureColumn.setCellValueFactory(data -> new SimpleStringProperty(data.getValue().getProcedure()));
+        procedureColumn.setCellValueFactory(data ->
+                new SimpleStringProperty(data.getValue().getProcedure())
+        );
         procedureColumn.setMinWidth(240);
 
-        tableView.getColumns().addAll(nameColumn, servingsColumn, caloriesColumn, ingredientsColumn, procedureColumn);
+        TableColumn<Recipe, Void> actionColumn = new TableColumn<>("Action");
+        actionColumn.setMinWidth(100);
+
+        actionColumn.setCellFactory(column -> new TableCell<>() {
+            private final Button deleteButton = new Button("Delete");
+
+            {
+                deleteButton.getStyleClass().addAll("button", "danger-button");
+
+                deleteButton.setOnAction(event -> {
+                    int index = getIndex();
+
+                    if (index >= 0 && index < getTableView().getItems().size()) {
+                        Recipe recipe = getTableView().getItems().get(index);
+                        deleteRecipeDirectly(recipe);
+                    }
+                });
+            }
+
+            @Override
+            protected void updateItem(Void item, boolean empty) {
+                super.updateItem(item, empty);
+
+                if (empty) {
+                    setGraphic(null);
+                } else {
+                    setGraphic(deleteButton);
+                }
+            }
+        });
+
+        tableView.getColumns().addAll(
+                nameColumn,
+                servingsColumn,
+                caloriesColumn,
+                ingredientsColumn,
+                procedureColumn,
+                actionColumn
+        );
+
         tableView.getSelectionModel().selectedItemProperty().addListener((obs, oldRecipe, selectedRecipe) -> {
             if (selectedRecipe != null) {
                 fillForm(selectedRecipe);
@@ -104,9 +150,11 @@ public class RecipeApp extends Application {
         });
 
         HBox searchBox = createSearchSection();
+
         VBox tableCard = new VBox(12, searchBox, tableView);
         tableCard.getStyleClass().add("content-card");
         VBox.setVgrow(tableView, Priority.ALWAYS);
+
         return tableCard;
     }
 
@@ -116,7 +164,11 @@ public class RecipeApp extends Application {
 
         searchTypeBox = new ComboBox<>();
         searchTypeBox.setItems(FXCollections.observableArrayList(
-                "All", "Servings", "Ingredient", "Calories Less Than", "Calories Greater Than"
+                "All",
+                "Servings",
+                "Ingredient",
+                "Calories Less Than",
+                "Calories Greater Than"
         ));
         searchTypeBox.setValue("All");
         searchTypeBox.setPrefWidth(190);
@@ -125,16 +177,17 @@ public class RecipeApp extends Application {
         searchField.setPromptText("Search value...");
         searchField.setPrefWidth(230);
 
-        Button searchButton = new Button(" Search");
+        Button searchButton = new Button("Search");
         searchButton.getStyleClass().addAll("button", "primary-button");
         searchButton.setOnAction(e -> searchRecipes());
 
-        Button showAllButton = new Button(" Show All");
+        Button showAllButton = new Button("Show All");
         showAllButton.getStyleClass().addAll("button", "secondary-button");
         showAllButton.setOnAction(e -> refreshTable());
 
         HBox searchBox = new HBox(10, searchLabel, searchTypeBox, searchField, searchButton, showAllButton);
         searchBox.setAlignment(Pos.CENTER_LEFT);
+
         return searchBox;
     }
 
@@ -158,22 +211,22 @@ public class RecipeApp extends Application {
         procedureArea.setPromptText("Write cooking procedure here...");
         procedureArea.setPrefRowCount(6);
 
-        Button addButton = new Button(" Add Recipe");
+        Button addButton = new Button("Add Recipe");
         addButton.setMaxWidth(Double.MAX_VALUE);
         addButton.getStyleClass().addAll("button", "primary-button");
         addButton.setOnAction(e -> addRecipe());
 
-        Button updateButton = new Button(" Update Selected");
+        Button updateButton = new Button("Update Selected");
         updateButton.setMaxWidth(Double.MAX_VALUE);
         updateButton.getStyleClass().addAll("button", "secondary-button");
         updateButton.setOnAction(e -> updateRecipe());
 
-        Button deleteButton = new Button(" Delete Selected");
+        Button deleteButton = new Button("Delete Selected");
         deleteButton.setMaxWidth(Double.MAX_VALUE);
         deleteButton.getStyleClass().addAll("button", "danger-button");
         deleteButton.setOnAction(e -> deleteRecipe());
 
-        Button clearButton = new Button(" Clear Form");
+        Button clearButton = new Button("Clear Form");
         clearButton.setMaxWidth(Double.MAX_VALUE);
         clearButton.getStyleClass().addAll("button", "ghost-button");
         clearButton.setOnAction(e -> clearForm());
@@ -186,10 +239,15 @@ public class RecipeApp extends Application {
                 fieldLabel("Calories"), caloriesField,
                 fieldLabel("Ingredients"), ingredientsArea,
                 fieldLabel("Procedure"), procedureArea,
-                addButton, updateButton, deleteButton, clearButton
+                addButton,
+                updateButton,
+                deleteButton,
+                clearButton
         );
+
         form.getStyleClass().add("form-card");
         form.setPrefWidth(360);
+
         return form;
     }
 
@@ -214,20 +272,28 @@ public class RecipeApp extends Application {
     private HBox createStatusBar() {
         statusLabel = new Label("Ready 💜");
         statusLabel.getStyleClass().add("status-label");
+
         HBox statusBar = new HBox(statusLabel);
         statusBar.getStyleClass().add("status-bar");
         statusBar.setAlignment(Pos.CENTER_LEFT);
+
         return statusBar;
     }
 
     private Recipe readRecipeFromForm() {
         String name = nameField.getText().trim();
+
+        if (name.isEmpty()) {
+            throw new IllegalArgumentException("Recipe name cannot be empty.");
+        }
+
         Integer servings = servingsBox.getValue();
-        int calories;
 
         if (servings == null) {
             throw new IllegalArgumentException("Please select servings: 2, 3, 4, 6, or 8.");
         }
+
+        int calories;
 
         try {
             calories = Integer.parseInt(caloriesField.getText().trim());
@@ -240,17 +306,29 @@ public class RecipeApp extends Application {
                 .filter(line -> !line.isEmpty())
                 .collect(Collectors.toList());
 
+        if (ingredients.isEmpty()) {
+            throw new IllegalArgumentException("Please enter at least one ingredient.");
+        }
+
         String procedure = procedureArea.getText().trim();
+
+        if (procedure.isEmpty()) {
+            throw new IllegalArgumentException("Procedure cannot be empty.");
+        }
+
         return new Recipe(name, servings, calories, ingredients, procedure);
     }
 
     private void addRecipe() {
         try {
             Recipe recipe = readRecipeFromForm();
+
             manager.addRecipe(recipe);
+
             refreshTable();
             clearForm();
             setStatus("Recipe added successfully ✅");
+
         } catch (Exception e) {
             showError("Add Failed", "Could not add recipe", e.getMessage());
         }
@@ -258,6 +336,7 @@ public class RecipeApp extends Application {
 
     private void updateRecipe() {
         Recipe selected = tableView.getSelectionModel().getSelectedItem();
+
         if (selected == null) {
             showWarning("No Selection", "Please select a recipe from the table first.");
             return;
@@ -265,7 +344,9 @@ public class RecipeApp extends Application {
 
         try {
             Recipe updatedRecipe = readRecipeFromForm();
+
             boolean updated = manager.updateRecipe(selected.getName(), updatedRecipe);
+
             if (updated) {
                 refreshTable();
                 clearForm();
@@ -273,6 +354,7 @@ public class RecipeApp extends Application {
             } else {
                 showWarning("Not Found", "Selected recipe was not found.");
             }
+
         } catch (Exception e) {
             showError("Update Failed", "Could not update recipe", e.getMessage());
         }
@@ -280,29 +362,29 @@ public class RecipeApp extends Application {
 
     private void deleteRecipe() {
         Recipe selected = tableView.getSelectionModel().getSelectedItem();
+
         if (selected == null) {
-            showWarning("No Selection", "Please select a recipe from the table first.");
+            showWarning("No Selection", "Please select a recipe from the table first, or use the row Delete button.");
             return;
         }
 
-        Alert confirm = new Alert(Alert.AlertType.CONFIRMATION);
-        confirm.setTitle("Delete Recipe");
-        confirm.setHeaderText("Delete selected recipe?");
-        confirm.setContentText("Recipe: " + selected.getName());
+        deleteRecipeDirectly(selected);
+    }
 
-        if (confirm.showAndWait().orElse(ButtonType.CANCEL) == ButtonType.OK) {
-            try {
-                boolean deleted = manager.deleteRecipe(selected.getName());
-                if (deleted) {
-                    refreshTable();
-                    clearForm();
-                    setStatus("Recipe deleted successfully ");
-                } else {
-                    showWarning("Not Found", "Selected recipe was not found.");
-                }
-            } catch (IOException e) {
-                showError("Delete Failed", "Could not delete recipe", e.getMessage());
+    private void deleteRecipeDirectly(Recipe recipe) {
+        try {
+            boolean deleted = manager.deleteRecipe(recipe.getName());
+
+            if (deleted) {
+                refreshTable();
+                clearForm();
+                setStatus("Recipe deleted successfully ✅");
+            } else {
+                showWarning("Not Found", "Recipe was not found.");
             }
+
+        } catch (IOException e) {
+            showError("Delete Failed", "Could not delete recipe", e.getMessage());
         }
     }
 
@@ -312,16 +394,44 @@ public class RecipeApp extends Application {
 
         try {
             List<Recipe> results;
+
             switch (type) {
                 case "All" -> results = manager.getAllRecipes();
-                case "Servings" -> results = manager.searchByServings(Integer.parseInt(value));
-                case "Ingredient" -> results = manager.searchByIngredient(value);
-                case "Calories Less Than" -> results = manager.searchByCaloriesLessThan(Integer.parseInt(value));
-                case "Calories Greater Than" -> results = manager.searchByCaloriesGreaterThan(Integer.parseInt(value));
+
+                case "Servings" -> {
+                    if (value.isEmpty()) {
+                        throw new IllegalArgumentException("Please enter serving value.");
+                    }
+                    results = manager.searchByServings(Integer.parseInt(value));
+                }
+
+                case "Ingredient" -> {
+                    if (value.isEmpty()) {
+                        throw new IllegalArgumentException("Please enter ingredient name.");
+                    }
+                    results = manager.searchByIngredient(value);
+                }
+
+                case "Calories Less Than" -> {
+                    if (value.isEmpty()) {
+                        throw new IllegalArgumentException("Please enter calorie value.");
+                    }
+                    results = manager.searchByCaloriesLessThan(Integer.parseInt(value));
+                }
+
+                case "Calories Greater Than" -> {
+                    if (value.isEmpty()) {
+                        throw new IllegalArgumentException("Please enter calorie value.");
+                    }
+                    results = manager.searchByCaloriesGreaterThan(Integer.parseInt(value));
+                }
+
                 default -> results = manager.getAllRecipes();
             }
+
             recipeData.setAll(results);
             setStatus("Search completed. Found " + results.size() + " recipe(s). 🔎");
+
         } catch (NumberFormatException e) {
             showError("Invalid Search", "Search value must be a number for this search type.", e.getMessage());
         } catch (Exception e) {
@@ -361,15 +471,15 @@ public class RecipeApp extends Application {
         alert.setTitle(title);
         alert.setHeaderText(header);
         alert.setContentText(content);
-        alert.showAndWait();
+        alert.show();
     }
 
     private void showWarning(String title, String content) {
         Alert alert = new Alert(Alert.AlertType.WARNING);
         alert.setTitle(title);
-        alert.setHeaderText(title);
+        alert.setHeaderText(null);
         alert.setContentText(content);
-        alert.showAndWait();
+        alert.show();
     }
 
     public static void main(String[] args) {

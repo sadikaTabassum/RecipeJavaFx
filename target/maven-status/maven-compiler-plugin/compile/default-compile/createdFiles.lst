@@ -1,5 +1,6 @@
-RecipeManager.class
 Main.class
 RecipeApp.class
-Recipe.class
 RecipeFileHandler.class
+RecipeManager.class
+RecipeApp$1.class
+Recipe.class
