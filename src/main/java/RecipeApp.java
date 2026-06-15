@@ -486,3 +486,5 @@ public class RecipeApp extends Application {
         launch(args);
     }
 }
+
+//mvn -U clean jpro:run

@@ -1640,3 +1640,607 @@
 2026-06-12 22:23:18,597 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: cgrhyytwvf4qyzwts27q9y2vc, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
 2026-06-12 22:23:18,714 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: cgrhyytwvf4qyzwts27q9y2vc, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
 2026-06-12 22:23:19,527 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance closed: {app_name: default, host_name: localhost:8080, instance_id: 7ibes0xddsjxke1racjqxl0j5, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: close-tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:30,429 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1138.96875,595.8359375,MouseButtonToken(3),false,false,false,false,false,true,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:31,359 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1132.65234375,591.15234375,MouseButtonToken(3),false,false,false,false,false,true,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:32,459 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1048.640625,373.96875,MouseButtonToken(3),false,false,false,false,false,true,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:33,641 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1037.515625,367.4765625,MouseButtonToken(3),false,false,false,false,false,true,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:34,410 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1034.3984375,367.7109375,MouseButtonToken(3),false,false,false,false,false,false,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,784 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Frame received after poison, ignoring - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,787 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View closed: {app_name: default, host_name: localhost:8080, instance_id: cgrhyytwvf4qyzwts27q9y2vc, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,787 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - WebSocket for [default] closed: 1000 – tab-closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,796 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,796 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed: - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,796 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Fri Jun 12 22:32:37 GMT+06:00 2026       - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,796 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.001  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,796 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.000   - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,796 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,796 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,796 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 2818420 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,796 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 401980 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,796 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,871 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - application requested: default params: Map() - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,872 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Creating Application: default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,872 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - remoteAddress 0:0:0:0:0:0:0:1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,872 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - host           - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,872 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - uri           /app/ws/default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,872 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Application found. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,877 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Handshake received: JSFILE_ID_REPLACED_BY_PLAY - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,883 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: 9894t7t3sa6z0bd2n8qcnald5, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:37,927 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: 9894t7t3sa6z0bd2n8qcnald5, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:32:38,792 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance closed: {app_name: default, host_name: localhost:8080, instance_id: cgrhyytwvf4qyzwts27q9y2vc, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: close-tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,252 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Frame received after poison, ignoring - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,252 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - WebSocket for [default] closed: 1000 – tab-closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,252 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View closed: {app_name: default, host_name: localhost:8080, instance_id: 9894t7t3sa6z0bd2n8qcnald5, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,263 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,263 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed: - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,263 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Fri Jun 12 22:33:28 GMT+06:00 2026       - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,263 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.002  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,263 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.001   - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,263 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,263 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,263 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 1763859 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,263 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 254319 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,263 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,321 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - application requested: default params: Map() - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,321 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Creating Application: default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,321 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - remoteAddress 0:0:0:0:0:0:0:1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,321 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - host           - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,321 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - uri           /app/ws/default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,321 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Application found. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,323 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Handshake received: JSFILE_ID_REPLACED_BY_PLAY - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,329 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: 6ikcorok2b528wgzrk83g5f5a, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:28,358 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: 6ikcorok2b528wgzrk83g5f5a, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:29,254 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance closed: {app_name: default, host_name: localhost:8080, instance_id: 9894t7t3sa6z0bd2n8qcnald5, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: close-tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:43,686 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1093.94921875,589.88671875,MouseButtonToken(3),false,false,false,false,false,true,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:44,630 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1092.61328125,595.82421875,MouseButtonToken(3),false,false,false,false,false,true,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:44,886 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1092.61328125,595.82421875,MouseButtonToken(3),false,false,false,false,false,true,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:46,491 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1053.98046875,365.2578125,MouseButtonToken(3),false,false,false,false,false,true,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:47,408 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1104.62890625,298.41796875,MouseButtonToken(3),false,false,false,false,false,true,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:48,019 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1103.0,304.71484375,MouseButtonToken(3),false,false,false,false,false,true,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:48,789 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1280.703125,302.203125,MouseButtonToken(3),false,false,false,false,false,true,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:49,442 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1315.80859375,303.75,MouseButtonToken(3),false,false,false,false,false,true,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:49,958 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.m.t.SceneInputListener - Window 'Recipe Manager - Purple Pink JavaFX Frontend' is disabled probably due to other modal window, skipping input: MouseEventToken(MousePressed,1295.66796875,303.87109375,MouseButtonToken(3),false,false,false,false,false,true,false,false) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,840 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Frame received after poison, ignoring - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,840 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - WebSocket for [default] closed: 1000 – tab-closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,840 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View closed: {app_name: default, host_name: localhost:8080, instance_id: 6ikcorok2b528wgzrk83g5f5a, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,849 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,849 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed: - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,849 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Fri Jun 12 22:33:50 GMT+06:00 2026       - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,849 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.002  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,849 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.000   - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,849 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,849 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,849 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 969315 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,849 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 140513 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,849 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,875 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - application requested: default params: Map() - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,875 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Creating Application: default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,875 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - remoteAddress 0:0:0:0:0:0:0:1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,875 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - host           - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,875 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - uri           /app/ws/default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,876 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Application found. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,876 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Handshake received: JSFILE_ID_REPLACED_BY_PLAY - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,879 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: 78brvra865fqgt5bb5kkc3znp, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:50,910 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: 78brvra865fqgt5bb5kkc3znp, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:33:51,845 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance closed: {app_name: default, host_name: localhost:8080, instance_id: 6ikcorok2b528wgzrk83g5f5a, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: close-tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,688 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[31mWARN [0;39m] c.j.i.c.ApplicationStarter$ - Exception while sending message: java.net.SocketException: Socket closed, closing session - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - java.io.UncheckedIOException: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:69) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:342) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:184) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.$anonfun$send$1(JProWSEndpoint.scala:302) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at scala.collection.immutable.List.foreach(List.scala:431) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.send(JProWSEndpoint.scala:297) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.ViewByWS.send(JProWSEndpoint.scala:289) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.communicator.ViewImpl.$anonfun$sendUpdate$1(ViewImpl.scala:167) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - Caused by: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:161) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:376) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:422) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:458) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:825) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.implWrite(Socket.java:1097) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1087) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:66) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[1;31mERROR[0;39m] c.j.i.s.ViewInfo$ - JavaFXStreamer: channel push failed! - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - java.io.UncheckedIOException: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,689 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:69) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:342) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.close(WsConnection.java:205) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint.com$jpro$internal$server$JProWSEndpoint$$poison(JProWSEndpoint.scala:239) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.$anonfun$send$1(JProWSEndpoint.scala:306) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at scala.collection.immutable.List.foreach(List.scala:431) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.send(JProWSEndpoint.scala:297) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.ViewByWS.send(JProWSEndpoint.scala:289) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - Caused by: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:161) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:376) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:422) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:458) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:825) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.implWrite(Socket.java:1097) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1087) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:66) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,690 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View closed: {app_name: default, host_name: localhost:8080, instance_id: 78brvra865fqgt5bb5kkc3znp, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: socket-error} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,694 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,694 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed: - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,694 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Fri Jun 12 22:47:16 GMT+06:00 2026       - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,694 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.021  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,694 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.024   - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,694 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,694 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,694 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 1286312 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,694 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 174529 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:16,694 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:47:17,693 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance closed: {app_name: default, host_name: localhost:8080, instance_id: 78brvra865fqgt5bb5kkc3znp, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: close-tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:52:39,856 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - application requested: default params: Map(instanceID -> 78brvra865fqgt5bb5kkc3znp) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:52:39,857 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Creating Application: default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:52:39,857 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - remoteAddress 0:0:0:0:0:0:0:1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:52:39,857 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - host           - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:52:39,857 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - uri           /app/ws/default?instanceID=78brvra865fqgt5bb5kkc3znp - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:52:39,857 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Application found. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:52:39,859 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Handshake received: JSFILE_ID_REPLACED_BY_PLAY - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:52:39,863 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: 3rqvzglluega1r8ddpw3439gv, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 22:52:39,915 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: 3rqvzglluega1r8ddpw3439gv, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,607 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[31mWARN [0;39m] c.j.i.c.ApplicationStarter$ - Exception while sending message: java.net.SocketException: Socket closed, closing session - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,607 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - java.io.UncheckedIOException: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,607 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:69) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:342) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:184) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.$anonfun$send$1(JProWSEndpoint.scala:302) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at scala.collection.immutable.List.foreach(List.scala:431) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.send(JProWSEndpoint.scala:297) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.ViewByWS.send(JProWSEndpoint.scala:289) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.communicator.ViewImpl.$anonfun$sendUpdate$1(ViewImpl.scala:167) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - Caused by: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:161) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:376) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:422) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:458) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:825) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.implWrite(Socket.java:1097) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1087) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:66) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[1;31mERROR[0;39m] c.j.i.s.ViewInfo$ - JavaFXStreamer: channel push failed! - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - java.io.UncheckedIOException: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:69) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:342) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.close(WsConnection.java:205) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint.com$jpro$internal$server$JProWSEndpoint$$poison(JProWSEndpoint.scala:239) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.$anonfun$send$1(JProWSEndpoint.scala:306) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at scala.collection.immutable.List.foreach(List.scala:431) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.send(JProWSEndpoint.scala:297) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.ViewByWS.send(JProWSEndpoint.scala:289) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - Caused by: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:161) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:376) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:422) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:458) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:825) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.implWrite(Socket.java:1097) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1087) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:66) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,610 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View closed: {app_name: default, host_name: localhost:8080, instance_id: 3rqvzglluega1r8ddpw3439gv, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: socket-error} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,613 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,613 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed: - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,613 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Fri Jun 12 23:07:16 GMT+06:00 2026       - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,613 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.002  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,613 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.000   - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,614 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,614 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,614 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 1140867 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,614 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 154890 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:16,614 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-12 23:07:17,616 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance closed: {app_name: default, host_name: localhost:8080, instance_id: 3rqvzglluega1r8ddpw3439gv, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: close-tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:39,562 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - application requested: default params: Map(instanceID -> 3rqvzglluega1r8ddpw3439gv) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:39,563 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Creating Application: default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:39,563 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - remoteAddress 0:0:0:0:0:0:0:1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:39,563 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - host           - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:39,563 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - uri           /app/ws/default?instanceID=3rqvzglluega1r8ddpw3439gv - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:39,563 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Application found. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:39,566 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Handshake received: JSFILE_ID_REPLACED_BY_PLAY - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:39,571 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: 7i6zv2tmairjo7sckjro4rnag, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:39,625 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: 7i6zv2tmairjo7sckjro4rnag, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:44,476 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Frame received after poison, ignoring - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:44,477 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - WebSocket for [default] closed: 1000 – tab-closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:44,477 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View closed: {app_name: default, host_name: localhost:8080, instance_id: 7i6zv2tmairjo7sckjro4rnag, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:44,483 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:44,483 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed: - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:44,483 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Sat Jun 13 09:43:44 GMT+06:00 2026       - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:44,483 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 08:49:16.958  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:44,483 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 02:21:08.504   - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:44,483 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:44,483 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:44,483 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 501059 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:44,483 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 52764 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:44,483 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:43:45,477 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance closed: {app_name: default, host_name: localhost:8080, instance_id: 7i6zv2tmairjo7sckjro4rnag, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: close-tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:44:35,128 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.helidon.Main - Shutdown requested by JVM shutting down - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:44:35,130 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.h.w.ServerListener - [0x3d3cb14f] @default socket closed. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:44:35,132 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.helidon.Main - Shutdown finished - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:42,607 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.jpro.activity - Starting the server - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:42,607 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ -  *** Starting JPro: https://www.jpro.one/ *** - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:42,608 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - OS: Mac OS X - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:42,611 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JPro: 2025.3.3 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:42,611 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Java version: 26.0.1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:42,611 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JVM: 26.0.1 Homebrew - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:42,612 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX jar: file:/Users/sadikatabassum/.m2/repository/org/openjfx/javafx-graphics/25.0.2-jpro/javafx-graphics-25.0.2-jpro-mac-aarch64.jar - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:42,613 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Configuring logging from url: 'jar:file:/Users/sadikatabassum/.m2/repository/one/jpro/jpro-server_2.12/2025.3.3/jpro-server_2.12-2025.3.3.jar!/logback-jpro-default.xml' - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:42,917 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX version: 25.0.2-jpro+0 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:42,978 [INFO] in JavaFX Application Thread - G1 Young Generation - JavaFX Application Thread
+2026-06-13 09:46:42,978 [INFO] in JavaFX Application Thread - G1 Concurrent GC - JavaFX Application Thread
+2026-06-13 09:46:42,978 [INFO] in JavaFX Application Thread - G1 Old Generation - JavaFX Application Thread
+2026-06-13 09:46:42,996 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - finished init! - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:42,999 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - [JPro] -> Server started: {start_time: 1781322402603, os_name: Mac OS X, jpro_version: 2025.3.3, pid: 45890} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:43,047 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.Route$ - Creating routing for JPro server - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:43,087 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.h.c.f.HelidonFeatures - Helidon SE 4.2.6 features: [Config, Encoding, Media, Metrics, Registry, WebServer, WebSocket] - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:43,092 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.h.w.ServerListener - [0x3d3cb14f] http://0.0.0.0:8080 bound for socket '@default' - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:43,093 [ERROR] in Thread-0 - There is no Helidon logging implementation on classpath, skipping log configuration. - Thread-0
+2026-06-13 09:46:43,096 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.h.w.LoomServer - Started all channels in 13 milliseconds. 1058 milliseconds since JVM startup. Java 26.0.1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:43,096 [INFO] in Thread-0 - Server started at http://localhost:8080 - Thread-0
+2026-06-13 09:46:46,283 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - application requested: default params: Map() - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:46,283 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Creating Application: default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:46,283 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - remoteAddress 0:0:0:0:0:0:0:1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:46,283 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - host           - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:46,283 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - uri           /app/ws/default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:46,288 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Application found. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:46,290 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Handshake received: JSFILE_ID_REPLACED_BY_PLAY - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:46,397 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: 7ij7gi0u8io5ymvz3gsr9ifg6, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:46,564 [INFO] in JavaFX Application Thread - PrismFontFactory - FontConfigManager.populateMaps!!!! - JavaFX Application Thread
+2026-06-13 09:46:47,070 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: 7ij7gi0u8io5ymvz3gsr9ifg6, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,857 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Frame received after poison, ignoring - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,857 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - WebSocket for [default] closed: 1001 – normal - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,859 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View closed: {app_name: default, host_name: localhost:8080, instance_id: 7ij7gi0u8io5ymvz3gsr9ifg6, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,868 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,868 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed: - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,878 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Sat Jun 13 09:46:54 GMT+06:00 2026       - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,878 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.019  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,878 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.029   - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,879 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,879 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,879 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 757279 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,879 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 84375 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,879 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - java.lang.AssertionError: assertion failed: Can't dispose, the JPro view is no longer active. Close reason was: tab-closed - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at scala.Predef$.assert(Predef.scala:223) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at com.jpro.internal.communicator.ViewImpl.dispose(ViewImpl.scala:226) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at com.jpro.internal.server.JProWSEndpoint.$anonfun$disposeIfNeeded$1(JProWSEndpoint.scala:244) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at simplefx.cores.standard.parts.CoreTimeEvent$$anon$3.run(CoreTimeEvent.scala:62) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at com.sun.javafx.application.PlatformImpl.lambda$runLater$0(PlatformImpl.java:425) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at com.sun.glass.ui.monocle.RunnableProcessor.runLoop(RunnableProcessor.java:92) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at com.sun.glass.ui.monocle.RunnableProcessor.run(RunnableProcessor.java:51) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at java.base/java.lang.Thread.run(Thread.java:1516) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - Exception in thread "JavaFX Application Thread" java.lang.AssertionError: assertion failed: Can't dispose, the JPro view is no longer active. Close reason was: tab-closed - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at scala.Predef$.assert(Predef.scala:223) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at com.jpro.internal.communicator.ViewImpl.dispose(ViewImpl.scala:226) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at com.jpro.internal.server.JProWSEndpoint.$anonfun$disposeIfNeeded$1(JProWSEndpoint.scala:244) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at simplefx.cores.standard.parts.CoreTimeEvent$$anon$3.run(CoreTimeEvent.scala:62) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at com.sun.javafx.application.PlatformImpl.lambda$runLater$0(PlatformImpl.java:425) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at com.sun.glass.ui.monocle.RunnableProcessor.runLoop(RunnableProcessor.java:92) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at com.sun.glass.ui.monocle.RunnableProcessor.run(RunnableProcessor.java:51) - JavaFX Application Thread
+2026-06-13 09:46:54,880 [ERROR] in JavaFX Application Thread - 	at java.base/java.lang.Thread.run(Thread.java:1516) - JavaFX Application Thread
+2026-06-13 09:46:55,865 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance closed: {app_name: default, host_name: localhost:8080, instance_id: 7ij7gi0u8io5ymvz3gsr9ifg6, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: close-tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 12:29:04,181 [INFO] in Thread-1 - Deleted pid file: /Users/sadikatabassum/Downloads/RecipeJavaFx/RUNNING_PID - Thread-1
+2026-06-13 12:29:04,184 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.helidon.Main - Shutdown requested by JVM shutting down - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 12:29:04,191 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.h.w.ServerListener - [0x3d3cb14f] @default socket closed. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-13 12:29:04,198 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.helidon.Main - Shutdown finished - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:14,755 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.jpro.activity - Starting the server - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:14,756 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ -  *** Starting JPro: https://www.jpro.one/ *** - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:14,756 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - OS: Mac OS X - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:14,759 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JPro: 2025.3.3 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:14,759 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Java version: 26.0.1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:14,759 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JVM: 26.0.1 Homebrew - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:14,760 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX jar: file:/Users/sadikatabassum/.m2/repository/org/openjfx/javafx-graphics/25.0.2-jpro/javafx-graphics-25.0.2-jpro-mac-aarch64.jar - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:14,762 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Configuring logging from url: 'jar:file:/Users/sadikatabassum/.m2/repository/one/jpro/jpro-server_2.12/2025.3.3/jpro-server_2.12-2025.3.3.jar!/logback-jpro-default.xml' - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:15,064 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX version: 25.0.2-jpro+0 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:15,128 [INFO] in JavaFX Application Thread - G1 Young Generation - JavaFX Application Thread
+2026-06-15 13:10:15,128 [INFO] in JavaFX Application Thread - G1 Concurrent GC - JavaFX Application Thread
+2026-06-15 13:10:15,128 [INFO] in JavaFX Application Thread - G1 Old Generation - JavaFX Application Thread
+2026-06-15 13:10:15,146 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - finished init! - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:15,149 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - [JPro] -> Server started: {start_time: 1781507414752, os_name: Mac OS X, jpro_version: 2025.3.3, pid: 11814} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:15,196 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.Route$ - Creating routing for JPro server - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:15,236 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.h.c.f.HelidonFeatures - Helidon SE 4.2.6 features: [Config, Encoding, Media, Metrics, Registry, WebServer, WebSocket] - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:15,241 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.h.w.ServerListener - [0x48eb1b70] http://0.0.0.0:8080 bound for socket '@default' - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:15,242 [ERROR] in Thread-0 - There is no Helidon logging implementation on classpath, skipping log configuration. - Thread-0
+2026-06-15 13:10:15,244 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.h.w.LoomServer - Started all channels in 11 milliseconds. 1059 milliseconds since JVM startup. Java 26.0.1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:15,245 [INFO] in Thread-0 - Server started at http://localhost:8080 - Thread-0
+2026-06-15 13:10:18,523 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - application requested: default params: Map() - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:18,523 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Creating Application: default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:18,523 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - remoteAddress 0:0:0:0:0:0:0:1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:18,524 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - host           - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:18,524 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - uri           /app/ws/default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:18,531 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Application found. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:18,545 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Handshake received: JSFILE_ID_REPLACED_BY_PLAY - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:18,711 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: e5rz7iaihm26p5vz7stzptjfe, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:10:18,887 [INFO] in JavaFX Application Thread - PrismFontFactory - FontConfigManager.populateMaps!!!! - JavaFX Application Thread
+2026-06-15 13:10:19,431 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: e5rz7iaihm26p5vz7stzptjfe, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,752 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[31mWARN [0;39m] c.j.i.c.ApplicationStarter$ - Exception while sending message: java.net.SocketException: Socket closed, closing session - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,753 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - java.io.UncheckedIOException: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,753 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:69) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,753 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,754 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,754 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:342) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,754 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:184) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,755 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.$anonfun$send$1(JProWSEndpoint.scala:302) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,755 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at scala.collection.immutable.List.foreach(List.scala:431) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,757 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.send(JProWSEndpoint.scala:297) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,757 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.ViewByWS.send(JProWSEndpoint.scala:289) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,757 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.communicator.ViewImpl.$anonfun$sendUpdate$1(ViewImpl.scala:167) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,757 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - Caused by: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,757 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:161) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,757 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:376) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,757 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:422) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,757 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:458) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,757 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:825) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,757 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.implWrite(Socket.java:1097) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,757 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1087) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:66) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[1;31mERROR[0;39m] c.j.i.s.ViewInfo$ - JavaFXStreamer: channel push failed! - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - java.io.UncheckedIOException: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:69) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:342) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.close(WsConnection.java:205) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint.com$jpro$internal$server$JProWSEndpoint$$poison(JProWSEndpoint.scala:239) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.$anonfun$send$1(JProWSEndpoint.scala:306) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at scala.collection.immutable.List.foreach(List.scala:431) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.send(JProWSEndpoint.scala:297) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.ViewByWS.send(JProWSEndpoint.scala:289) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - Caused by: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:161) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:376) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:422) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:458) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:825) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.implWrite(Socket.java:1097) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1087) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:66) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,758 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,759 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View closed: {app_name: default, host_name: localhost:8080, instance_id: e5rz7iaihm26p5vz7stzptjfe, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: socket-error} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,778 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,778 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed: - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,792 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Mon Jun 15 13:25:03 GMT+06:00 2026       - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,792 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:04.356  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,792 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:05.707   - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,792 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,792 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,792 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 3045178 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,792 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 415193 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:03,792 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:25:04,755 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance closed: {app_name: default, host_name: localhost:8080, instance_id: e5rz7iaihm26p5vz7stzptjfe, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: close-tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:51:27,345 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - application requested: default params: Map(instanceID -> e5rz7iaihm26p5vz7stzptjfe) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:51:27,346 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Creating Application: default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:51:27,346 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - remoteAddress 0:0:0:0:0:0:0:1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:51:27,346 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - host           - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:51:27,346 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - uri           /app/ws/default?instanceID=e5rz7iaihm26p5vz7stzptjfe - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:51:27,348 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Application found. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:51:27,348 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Handshake received: JSFILE_ID_REPLACED_BY_PLAY - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:51:27,356 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: 3op4xk5pomjqb42forl9wblv4, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:51:27,436 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: 3op4xk5pomjqb42forl9wblv4, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,652 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[31mWARN [0;39m] c.j.i.c.ApplicationStarter$ - Exception while sending message: java.net.SocketException: Socket closed, closing session - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - java.io.UncheckedIOException: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:69) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:342) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:184) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.$anonfun$send$1(JProWSEndpoint.scala:302) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at scala.collection.immutable.List.foreach(List.scala:431) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.send(JProWSEndpoint.scala:297) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.ViewByWS.send(JProWSEndpoint.scala:289) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.communicator.ViewImpl.$anonfun$sendUpdate$1(ViewImpl.scala:167) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - Caused by: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:161) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:376) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:422) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,653 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:458) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:825) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.implWrite(Socket.java:1097) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1087) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:66) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[1;31mERROR[0;39m] c.j.i.s.ViewInfo$ - JavaFXStreamer: channel push failed! - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - java.io.UncheckedIOException: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:69) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:342) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.close(WsConnection.java:205) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint.com$jpro$internal$server$JProWSEndpoint$$poison(JProWSEndpoint.scala:239) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.$anonfun$send$1(JProWSEndpoint.scala:306) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at scala.collection.immutable.List.foreach(List.scala:431) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.send(JProWSEndpoint.scala:297) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.ViewByWS.send(JProWSEndpoint.scala:289) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - Caused by: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,654 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:161) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,655 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:376) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,655 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:422) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,655 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:458) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,655 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:825) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,655 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.implWrite(Socket.java:1097) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,655 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1087) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,655 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:66) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,655 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,655 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,655 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View closed: {app_name: default, host_name: localhost:8080, instance_id: 3op4xk5pomjqb42forl9wblv4, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: socket-error} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,676 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,676 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed: - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,676 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Mon Jun 15 13:59:03 GMT+06:00 2026       - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,676 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:02:38.776  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,676 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:04:45.764   - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,676 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,676 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,676 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 1403645 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,676 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 192868 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:03,676 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 13:59:04,657 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance closed: {app_name: default, host_name: localhost:8080, instance_id: 3op4xk5pomjqb42forl9wblv4, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: close-tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:04:43,887 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - application requested: default params: Map(instanceID -> 3op4xk5pomjqb42forl9wblv4) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:04:43,888 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Creating Application: default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:04:43,888 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - remoteAddress 0:0:0:0:0:0:0:1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:04:43,888 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - host           - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:04:43,888 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - uri           /app/ws/default?instanceID=3op4xk5pomjqb42forl9wblv4 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:04:43,888 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Application found. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:04:43,891 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Handshake received: JSFILE_ID_REPLACED_BY_PLAY - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:04:43,898 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: 8l0m1sr1v7711toiulroyinz4, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:04:43,976 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: 8l0m1sr1v7711toiulroyinz4, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,823 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[31mWARN [0;39m] c.j.i.c.ApplicationStarter$ - Exception while sending message: java.net.SocketException: Socket closed, closing session - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,825 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - java.io.UncheckedIOException: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,825 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:69) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,825 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,825 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,825 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:342) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,825 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:184) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,825 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.$anonfun$send$1(JProWSEndpoint.scala:302) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,825 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at scala.collection.immutable.List.foreach(List.scala:431) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,825 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.send(JProWSEndpoint.scala:297) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,825 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.ViewByWS.send(JProWSEndpoint.scala:289) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,825 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.communicator.ViewImpl.$anonfun$sendUpdate$1(ViewImpl.scala:167) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,825 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - Caused by: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,825 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:161) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,826 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:376) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,827 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:422) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,827 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:458) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,827 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:825) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,827 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.implWrite(Socket.java:1097) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,827 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1087) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,827 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:66) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,827 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,827 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,830 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[1;31mERROR[0;39m] c.j.i.s.ViewInfo$ - JavaFXStreamer: channel push failed! - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,832 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - java.io.UncheckedIOException: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,832 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:69) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,832 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,832 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,832 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:342) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,832 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.close(WsConnection.java:205) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,832 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint.com$jpro$internal$server$JProWSEndpoint$$poison(JProWSEndpoint.scala:239) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,832 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.$anonfun$send$1(JProWSEndpoint.scala:306) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,832 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at scala.collection.immutable.List.foreach(List.scala:431) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,832 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.send(JProWSEndpoint.scala:297) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,832 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.ViewByWS.send(JProWSEndpoint.scala:289) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,833 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - Caused by: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,833 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:161) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,833 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:376) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,833 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:422) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,833 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:458) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,833 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:825) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,833 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.implWrite(Socket.java:1097) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,833 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1087) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,833 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:66) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,833 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,833 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,833 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View closed: {app_name: default, host_name: localhost:8080, instance_id: 8l0m1sr1v7711toiulroyinz4, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: socket-error} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,853 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,853 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed: - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,853 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Mon Jun 15 14:11:04 GMT+06:00 2026       - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,853 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:02:55.592  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,854 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:02:55.563   - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,854 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,854 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,854 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 1385725 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,854 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 191332 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:04,854 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:11:05,831 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance closed: {app_name: default, host_name: localhost:8080, instance_id: 8l0m1sr1v7711toiulroyinz4, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: close-tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:18:42,969 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - application requested: default params: Map(instanceID -> 8l0m1sr1v7711toiulroyinz4) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:18:42,970 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Creating Application: default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:18:42,970 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - remoteAddress 0:0:0:0:0:0:0:1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:18:42,970 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - host           - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:18:42,970 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - uri           /app/ws/default?instanceID=8l0m1sr1v7711toiulroyinz4 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:18:42,970 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Application found. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:18:42,970 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Handshake received: JSFILE_ID_REPLACED_BY_PLAY - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:18:42,979 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: 58zq10n6clujv2y386di44sfb, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:18:43,041 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: 58zq10n6clujv2y386di44sfb, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,701 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[31mWARN [0;39m] c.j.i.c.ApplicationStarter$ - Exception while sending message: java.net.SocketException: Socket closed, closing session - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,702 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - java.io.UncheckedIOException: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,702 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:69) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,702 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,702 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:342) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:184) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.$anonfun$send$1(JProWSEndpoint.scala:302) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at scala.collection.immutable.List.foreach(List.scala:431) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.send(JProWSEndpoint.scala:297) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.ViewByWS.send(JProWSEndpoint.scala:289) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.communicator.ViewImpl.$anonfun$sendUpdate$1(ViewImpl.scala:167) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - Caused by: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:161) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:376) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:422) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:458) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:825) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.implWrite(Socket.java:1097) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1087) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:66) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,703 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[1;31mERROR[0;39m] c.j.i.s.ViewInfo$ - JavaFXStreamer: channel push failed! - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - java.io.UncheckedIOException: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:69) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.send(WsConnection.java:342) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.webserver.websocket.WsConnection.close(WsConnection.java:205) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint.com$jpro$internal$server$JProWSEndpoint$$poison(JProWSEndpoint.scala:239) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.$anonfun$send$1(JProWSEndpoint.scala:306) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at scala.collection.immutable.List.foreach(List.scala:431) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.JProWSEndpoint$.send(JProWSEndpoint.scala:297) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at com.jpro.internal.server.ViewByWS.send(JProWSEndpoint.scala:289) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - Caused by: java.net.SocketException: Socket closed - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:161) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:376) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,704 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:422) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,705 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:458) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,705 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:825) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,705 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.implWrite(Socket.java:1097) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,705 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1087) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,705 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.buffers.GrowingBufferData.writeTo(GrowingBufferData.java:66) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,705 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.PlainSocket.write(PlainSocket.java:136) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,705 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - 	at io.helidon.common.socket.SocketWriter.writeNow(SocketWriter.java:81) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,706 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View closed: {app_name: default, host_name: localhost:8080, instance_id: 58zq10n6clujv2y386di44sfb, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: socket-error} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,719 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,720 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed: - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,720 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Mon Jun 15 14:25:04 GMT+06:00 2026       - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,720 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:02:05.012  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,720 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:03:02.479   - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,720 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,720 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,720 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 1384701 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,720 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 191184 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:04,720 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ -  - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 14:25:05,709 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance closed: {app_name: default, host_name: localhost:8080, instance_id: 58zq10n6clujv2y386di44sfb, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: close-tab-closed} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 15:06:33,473 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - application requested: default params: Map(instanceID -> 58zq10n6clujv2y386di44sfb) - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 15:06:33,474 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Creating Application: default - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 15:06:33,474 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - remoteAddress 0:0:0:0:0:0:0:1 - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 15:06:33,474 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - host           - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 15:06:33,474 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - uri           /app/ws/default?instanceID=58zq10n6clujv2y386di44sfb - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 15:06:33,474 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Application found. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 15:06:33,474 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.JProWSEndpoint - Handshake received: JSFILE_ID_REPLACED_BY_PLAY - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 15:06:33,482 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: 1l16hjvluojizsa7rp42lei2t, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 15:06:33,530 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: 1l16hjvluojizsa7rp42lei2t, browser: Safari 605.1.15, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1} - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 15:07:11,021 [INFO] in Thread-1 - Deleted pid file: /Users/sadikatabassum/Downloads/RecipeJavaFx/RUNNING_PID - Thread-1
+2026-06-15 15:07:11,022 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.helidon.Main - Shutdown requested by JVM shutting down - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 15:07:11,030 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.h.w.ServerListener - [0x48eb1b70] @default socket closed. - AsyncAppender-Worker-ASYNCSTDOUT
+2026-06-15 15:07:11,038 [INFO] in AsyncAppender-Worker-ASYNCSTDOUT - [[34mINFO [0;39m] i.helidon.Main - Shutdown finished - AsyncAppender-Worker-ASYNCSTDOUT

@@ -9,23 +9,19 @@ class RecipeManager {
     private final RecipeFileHandler fileHandler;
     private List<Recipe> recipes;
 
-    // Constructor for JavaFX GUI
+
     public RecipeManager(String fileName) throws IOException {
         this.scanner = null;
         this.fileHandler = new RecipeFileHandler(fileName);
         this.recipes = fileHandler.loadRecipes();
     }
 
-    // Constructor for old console version
     public RecipeManager(Scanner scanner, String fileName) throws IOException {
         this.scanner = scanner;
         this.fileHandler = new RecipeFileHandler(fileName);
         this.recipes = fileHandler.loadRecipes();
     }
 
-    // =========================
-    // JavaFX-friendly methods
-    // =========================
 
     public List<Recipe> getAllRecipes() {
         return new ArrayList<>(recipes);
@@ -103,9 +99,6 @@ class RecipeManager {
         }
     }
 
-    // =========================
-    // Old console version kept
-    // =========================
 
     public void run() throws IOException {
         if (scanner == null) {
